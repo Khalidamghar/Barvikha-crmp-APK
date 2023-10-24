@@ -13,9 +13,9 @@
         
         
       "banner_type":"yandex",
-      "inter_type":"yandex",
+      "inter_type":"applovin",
       "native_type":"yandex",
-      "reward_type":"yandex",
+      "reward_type":"applovin",
       
 
       "ironsource_id":"jhd78302",
@@ -40,8 +40,8 @@
       "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
       "applovin_banner":"R-M-DEMO-300x50",
-      "applovin_interstitial":"R-M-DEMO-interstitial",
-      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_interstitial":"1a864f135e199a8e",
+      "applovin_reward":"414754445ed419ca",
       "applovin_native":"R-M-DEMO-300x50",
 
       "facebook_banner":"R-M-DEMO-interstitial",
